@@ -1,18 +1,18 @@
 @font-face {
     font-family: poppinssemi ;
-    src: url(/Poppins-SemiBold.ttf);
+    src: url(Poppins-SemiBold.ttf);
 }
 @font-face {
     font-family: poppinregular;
-    src: url(/Poppins-Medium.ttf);
+    src: url(Poppins-ExtraBold.ttf);
 }
 @font-face {
     font-family: poppinsextralights;
-    src: url(/Poppins-ExtraLight.ttf);
+    src: url(Poppins-ExtraLight.ttf);
 }
 @font-face {
     font-family: poppinslight;
-    src: url(/Poppins-Light.ttf)
+    src: url(Poppins-Light.ttf)
 }
 .container{
     width:100vw;
